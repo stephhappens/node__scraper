@@ -1,0 +1,24 @@
+{
+  "name": "node__scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://stephhappens@github.com/stephhappens/node__scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephhappens/node__scraper/issues"
+  },
+  "homepage": "https://github.com/stephhappens/node__scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
